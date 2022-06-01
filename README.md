@@ -14,4 +14,4 @@ A primeira coluna lista os rótulos(labels) originais dos dados observados, enqu
 
 ○ Cenário 4: Maligno (label) x Maligno (Modelo) - 37 casos - verdadeiro positivo.
 
-Apesar das minhas tentativas, não foi possível otimizar o modelo para além da minha primeira estimação. Contudo, o resultado não foi catastrófico, pois afinal de contas eu consegui apresentar um modelo com 98% de precisão na previsão de tumores malignos.
+É possível visualizar os resultados no arquivo Juoyter Notebook!
