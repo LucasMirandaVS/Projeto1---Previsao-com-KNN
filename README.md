@@ -3,8 +3,7 @@ Utilizando as bibliotecas class, gmodels e ggplot2, realizei a previsão da ocor
 
 Os dados analisados são da base de dados da Universidade de Winsconsin, e são os registros de biópsias realizadas em pacientes com suspeita de câncer de mama. Os dados das biópsias de câncer incluem 569 observações, cada uma com 30 medidas laboratoriais (ou variáveis), além de identificação e diagnóstico( M indica tumor maligno e B indica tumor benigno). Para treinar o modelo eu fiz uso do pacote class, que contém a função KNN. 
 
-A função KNN retorna uma lista de variáveis categóricas, e para visualizar de forma que seja possível avaliar os resultados, foi preciso importar o pacote gmodels.
-A primeira coluna lista os rótulos(labels) originais dos dados observados, enquanto que as duas colunas (Maligno e Benigno) mostram os resultados da previsão. A tabela cruzada nos apresenta 4 cenários:
+A tabela cruzada dos resutados apresenta 4 cenários:
 
 ○ Cenário 1: Benigno(label) x Benigno(Modelo) - 61 casos - verdadeiro negativo
 
