@@ -13,4 +13,4 @@ A tabela cruzada dos resutados apresenta 4 cenários:
 
 ○ Cenário 4: Maligno (label) x Maligno (Modelo) - 37 casos - verdadeiro positivo.
 
-É possível visualizar os resultados no arquivo Juoyter Notebook!
+É possível visualizar os resultados no arquivo Jupyter Notebook!
